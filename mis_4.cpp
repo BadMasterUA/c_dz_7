@@ -8,4 +8,5 @@ int main(){
         std::cout << "counter: " << count << "\n";
     }
     
+    return 0;
 }

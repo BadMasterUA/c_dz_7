@@ -7,4 +7,6 @@ int main(){
    } 
 
    std::cout << "x = " << a;
+
+   return 0;
 }
